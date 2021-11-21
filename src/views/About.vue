@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>啥都不是真是的</h1>
+    <h1>真的是你妹的   太难受了, 我要冲破关卡</h1>
   </div>
 </template>
